@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.Easy.Array;
 
 /**
  * Created by tiejin on 7/24/2018.
