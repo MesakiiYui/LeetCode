@@ -16,7 +16,7 @@ public class String32 {
         for(int i = arr.length - 1; i >= 0; i--){
             newStr.append(arr[i]);
         }
-        return (newStr+ "");
+        return (newStr+ "");//String Builder 转 String
     }
     public static void main(String[] args){
         String str = "abcdefg";
